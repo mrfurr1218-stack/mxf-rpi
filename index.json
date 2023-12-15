@@ -8,17 +8,17 @@
     {
       "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 1500
     },
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://1001albumsgenerator.com",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 1500
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "url": "https://color-of-the-day.khromov.se",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 1500
     }
   ]
 }
