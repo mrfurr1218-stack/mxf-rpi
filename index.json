@@ -6,18 +6,18 @@
   "closeExistingTabs": true,
   "websites": [
     {
-#     "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-#     "duration": 8,
-#     "tabReloadIntervalSeconds": 1500
+     "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+     "duration": 25,
+     "tabReloadIntervalSeconds": 1500
     },
     {
       "url": "https://1001albumsgenerator.com",
-      "duration": 8,
+      "duration": 25,
       "tabReloadIntervalSeconds": 1500
     },
     {
       "url": "https://color-of-the-day.khromov.se",
-      "duration": 8,
+      "duration": 25,
       "tabReloadIntervalSeconds": 1500
     }
   ]
